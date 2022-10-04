@@ -1,0 +1,28 @@
+header{
+    width: 100%;
+    height: 150px;
+    background-color: #ffce01;
+    display: block;
+    float: left;
+}
+main{
+    width: 70%;
+    height: 550px;
+    display: block;
+    float: left;
+    background-color: #fdffe9;
+}
+aside{
+    width: 30%;
+    height: 550px;
+    display: block;
+    float: left;
+    background-color: #2400ff;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    display: block;
+    float: left;
+    background-color: gray;
+}

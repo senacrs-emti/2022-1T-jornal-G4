@@ -1,0 +1,20 @@
+assets //todos os arquivos de layout, vizual, js
+-css //todos arquivos de css
+--index.html //arquivo em branco para não localizar rquivos (não serem viziveis)
+--style.css // arquivos do templete
+-img // fica todas imagens do desing/template do site(só do vizual)
+--index.html //arquivo em branco para não localizar rquivos (não serem viziveis)
+-js // arquivos de javascript
+--index.html //arquivo em branco para não localizar rquivos (não serem viziveis)
+--script.js // arquivos de javascript
+contents// todos os arquivos de imagens, vídeo ou aúdios da notícia
+includes// arquivos que se repetem
+-_index.html //arquivo em branco para não localizar rquivos (não serem viziveis)
+-_header.php// código do header
+-_aside.php// código do aside
+-_footer.php// código do footer
+editoria.php//
+index.php //
+noticia.php//
+organização.txt //descrição de organização
+template.html //template base
