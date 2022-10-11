@@ -72,12 +72,19 @@ footer{
     float: left;
 }
 
+.logo img {
+    width: 100%;
+    height: 140px;
+    margin-top: 5px;
+}
+
 .redes {
     width: 70%;
     height: 150px;
     background-color: red;
     float: left;
 }
+
 
 .mapa {
     width: 15%;
