@@ -9,7 +9,7 @@
 
     <title>Hello, world!</title>
   </head>
-  <body>
+  <body class="container-fluid">
     <header>
         <nav>
             <ul>
@@ -19,3 +19,4 @@
             </ul>
         </nav>
     </header>
+    <div class="row">

@@ -7,17 +7,21 @@ header{
 }
 main{
     width: 70%;
-    height: 550px;
+    height: auto;
     display: block;
     float: left;
     background-color: #fdffe9;
 }
 aside{
     width: 30%;
-    height: 550px;
+    height: auto;
     display: block;
     float: left;
     background-color: #2400ff;
+}
+.img-news{
+    width: 100%;
+    padding-right: 2%;
 }
 footer{
     width: 100%;
