@@ -10,14 +10,20 @@ main{
     height: auto;
     display: block;
     float: left;
-    background-color: #fdffe9;
+    background-color: green;
 }
 aside{
     width: 30%;
     height: auto;
     display: block;
     float: left;
-    background-color: #2400ff;
+    background-color: #fdffe9;
+}
+.titulo-aside{
+    background-color: blue;
+}
+.texto-aside{
+    font-size: small;
 }
 .img-news{
     width: 100%;
