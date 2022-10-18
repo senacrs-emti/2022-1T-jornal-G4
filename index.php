@@ -3,7 +3,7 @@
 include_once './includes/_header.php'
 //parte do conteudo da página
 ?>
-<main>
+<main class="col-lg-8 col-12">
     <h1>Index<h1>
 </main>
 <?php
