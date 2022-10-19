@@ -21,6 +21,7 @@ aside{
 }
 .titulo-aside{
     background-color: blue;
+    width: 42%;
 }
 .texto-aside{
     font-size: small;
