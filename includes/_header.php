@@ -10,7 +10,7 @@
 
     <title>Hello, world!</title>
   </head>
-  <body>
+  <body class="container-fluid">
     <header>
       <h1><b>Caramelo News</b></h1>
     <svg width="264" height="236" viewBox="0 0 264 236" fill="none" xmlns="http://www.w3.org/2000/svg" id="logo">
@@ -29,3 +29,4 @@
             </ul>
         </nav>
     </header>
+    <div class="row">

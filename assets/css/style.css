@@ -38,55 +38,20 @@ header ul li{
     
     margin-top: -5%;
 }
-
-.brightness_off{
-    position: absolute;
-    height: 200px;
-    width: 210px;
-    background-color: black;
-    display: block;
-    top: 0%;
-    left: 16.3%;
-    opacity: 0.50;
-
-}
-.centered_text{
-    position: absolute;
-    font-size: 12px;
-    width: 200px;
-    top: 50%;
-    left: 25.5%;
-    transform: translate(-50%, -50%);
-    text-align: justify;
-    color: white;
-}
-.centered_title{
-    position: absolute;
-    font-size: 20px;
-    width: 200px;
-    top: 10%;
-    left: 25.5%;
-    transform: translate(-50%, -50%);
-    text-align: justify;
-    text-shadow: 0px 0px 5px 0px black;
-    color: white;
-}
-.text_on_thumb{
-    position:relative;
-    color: white;
-    
-}
 main{
-    width: 100%;
-    height: 550px;
+    width: 70%;
+    height: auto;
     display: block;
     float: left;
-    background-color: #fdffe9;
+    background-color: green;
     padding-top:15px;
+}
+.img-destaque-home{
+    
 }
 aside{
     width: 30%;
-    height: 550px;
+    height: auto;
     display: block;
     float: left;
     background-color: #2400ff;
