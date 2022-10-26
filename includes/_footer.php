@@ -1,28 +1,19 @@
 <footer class="row">
-    
-    <section id="footer-logo" class="col-lg-2 col-12">
-
-    <img id="footer-img-logo" src="./assets/img/logo-senac.png"  alt="...">
-
-    </section>
-    
-    <section id="footer-redes" class="col-lg-8 col-12">
-
-    <img src="..." class="img-fluid" alt="...">
-    <img src="..." class="img-fluid" alt="...">
-    <img src="..." class="img-fluid" alt="...">
-    <img src="..." class="img-fluid" alt="...">
-    <img src="..." class="img-fluid" alt="...">
-    <img src="..." class="img-fluid" alt="...">
-
-    </section>
-    
-    <section id="footer-mapa" class="col-lg-2 col-12">
-
-    <div class="mapouter"><div class="gmap_canvas"><iframe width="193" height="157" id="gmap_canvas" src="https://maps.google.com/maps?q=Rio%20grande%20do%20sul%20Porto%20alegre%20Shopping%20total&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a><br><style>.mapouter{position:relative;text-align:right;height:157px;width:193px;}</style><a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;height:157px;width:193px;}</style></div></div>
-
-    </section>
-    
+    <div class="col-lg-2 col-12">
+        <img id="footer-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Senac_logo.svg/2560px-Senac_logo.svg.png" alt="">
+    </div>
+    <div class="col-lg-8 col-12" id="conjuntoe-redes">
+        <img src="http://1.bp.blogspot.com/-d4KJsuaPlfk/UqDbzuOSpnI/AAAAAAAAKeE/bqCQUrWVIcw/s1600/GioC.png" alt=""  class="footer-redes">
+        <img src="http://1.bp.blogspot.com/-d4KJsuaPlfk/UqDbzuOSpnI/AAAAAAAAKeE/bqCQUrWVIcw/s1600/GioC.png" alt="" class="footer-redes">
+        <img src="http://1.bp.blogspot.com/-d4KJsuaPlfk/UqDbzuOSpnI/AAAAAAAAKeE/bqCQUrWVIcw/s1600/GioC.png" alt="" class="footer-redes">
+        <img src="http://1.bp.blogspot.com/-d4KJsuaPlfk/UqDbzuOSpnI/AAAAAAAAKeE/bqCQUrWVIcw/s1600/GioC.png" alt="" class="footer-redes">
+        <img src="http://1.bp.blogspot.com/-d4KJsuaPlfk/UqDbzuOSpnI/AAAAAAAAKeE/bqCQUrWVIcw/s1600/GioC.png" alt="" class="footer-redes">
+        <img src="http://1.bp.blogspot.com/-d4KJsuaPlfk/UqDbzuOSpnI/AAAAAAAAKeE/bqCQUrWVIcw/s1600/GioC.png" alt="" class="footer-redes">
+                
+    </div>
+    <div class="col-lg-2 col-12">
+        <div class="mapouter" id="mapa"><div class="gmap_canvas"><iframe width="200" height="100" id="gmap_canvas" src="https://maps.google.com/maps?q=senac%20distrito%20criativo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies-online.net">fmovies</a><br><style>.mapouter{position:relative;text-align:right;height:100px;width:200px;}</style><a href="https://www.embedgooglemap.net">how to make a website map</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:100px;width:200px;}</style></div></div>
+    </div>
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

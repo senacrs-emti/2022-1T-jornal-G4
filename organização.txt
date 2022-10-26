@@ -18,3 +18,24 @@ index.php //
 noticia.php//
 organização.txt //descrição de organização
 template.html //template base
+
+
+
+<footer class="row">
+        <div class="col-lg-2 col-12">
+            <img id="footer-img-logo" src="./assets/img/logo-senac.png"alt="...">
+        </div>
+        <div id="footer-redes" class="col-lg-8 col-12">
+            <div class="row">    
+                <img src="https://abdet.com.br/site/wp-content/uploads/2015/02/Albert_Einstein_Head.jpg" class="img-fluid col-2" alt="...">
+                <img src="https://abdet.com.br/site/wp-content/uploads/2015/02/Albert_Einstein_Head.jpg" class="img-fluid col-2" alt="...">
+                <img src="https://abdet.com.br/site/wp-content/uploads/2015/02/Albert_Einstein_Head.jpg" class="img-fluid col-2" alt="...">
+                <img src="https://abdet.com.br/site/wp-content/uploads/2015/02/Albert_Einstein_Head.jpg" class="img-fluid col-2" alt="...">
+                <img src="https://abdet.com.br/site/wp-content/uploads/2015/02/Albert_Einstein_Head.jpg" class="img-fluid col-2" alt="...">
+                <img src="https://abdet.com.br/site/wp-content/uploads/2015/02/Albert_Einstein_Head.jpg" class="img-fluid col-2" alt="...">
+            </div>
+        </div>
+        <div id="footer-mapa" class="col-lg-2 col-12"></div>
+
+
+</footer>
