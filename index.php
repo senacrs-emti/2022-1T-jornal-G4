@@ -39,6 +39,37 @@
                 </div>
             </div>
         </div>
+        <h3>Mais Populares:</h3>
+        <div class="row">
+            <div class="col-6">
+                <div class="row mt-5">
+                    <img src="http://cbissn.ibict.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png" alt="" class="col-6">
+                    <p class="col-6">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum, quam? Placeat optio eum deleniti tempore, deserunt atque numquam rem odit assumenda culpa mollitia, dolorum ullam doloribus, accusamus illo quibusdam asperiores!</p>
+                </div>
+                <div class="row mt-5">
+                    <img src="http://cbissn.ibict.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png" alt="" class="col-6">
+                    <p class="col-6">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum, quam? Placeat optio eum deleniti tempore, deserunt atque numquam rem odit assumenda culpa mollitia, dolorum ullam doloribus, accusamus illo quibusdam asperiores!</p>
+                </div>
+                <div class="row mt-5">
+                    <img src="http://cbissn.ibict.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png" alt="" class="col-6">
+                    <p class="col-6">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum, quam? Placeat optio eum deleniti tempore, deserunt atque numquam rem odit assumenda culpa mollitia, dolorum ullam doloribus, accusamus illo quibusdam asperiores!</p>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="row mt-5">
+                    <img src="http://cbissn.ibict.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png" alt="" class="col-6">
+                    <p class="col-6">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum, quam? Placeat optio eum deleniti tempore, deserunt atque numquam rem odit assumenda culpa mollitia, dolorum ullam doloribus, accusamus illo quibusdam asperiores!</p>
+                </div>
+                <div class="row mt-5">
+                    <img src="http://cbissn.ibict.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png" alt="" class="col-6 mw-50">
+                    <p class="col-6">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum, quam? Placeat optio eum deleniti tempore, deserunt atque numquam rem odit assumenda culpa mollitia, dolorum ullam doloribus, accusamus illo quibusdam asperiores!</p>
+                </div>
+                <div class="row mt-5">
+                    <img src="http://cbissn.ibict.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png" alt="" class="col-6">
+                    <p class="col-6">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum, quam? Placeat optio eum deleniti tempore, deserunt atque numquam rem odit assumenda culpa mollitia, dolorum ullam doloribus, accusamus illo quibusdam asperiores!</p>
+                </div>
+            </div>
+        </div>
         
     </main>
 </body>
