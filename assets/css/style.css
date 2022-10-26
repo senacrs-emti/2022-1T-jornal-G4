@@ -12,9 +12,11 @@ header{
 .navbar-nav{
     font-size: 25px;
     color: black;
+    margin: 0;
 }
 
 .nav-link:hover {
     background-color: #7000FF;
     color: white;
-  }
+    
+}
