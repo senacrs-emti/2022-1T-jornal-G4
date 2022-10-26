@@ -2,6 +2,12 @@
     position: relative;
     
 }
+h2{
+    font-size: small;
+}
+.manchete{
+    font-size: 12px;
+}
 .dark{
     height: 100%;
     width: 47%;
