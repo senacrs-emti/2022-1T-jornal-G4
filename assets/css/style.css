@@ -9,6 +9,10 @@ header{
     color: black;
 }
 
+p{
+    font-family: numans;
+}
+
 .navbar-nav{
     font-size: 25px;
     color: black;
@@ -19,4 +23,50 @@ header{
     background-color: #7000FF;
     color: white;
     
+}
+
+.titulo-noticia{
+    font-size: 25px;
+    text-align: justify;
+    margin-top: 5vh;
+    font-weight: bold;
+}
+
+.subtitulo-noticia{
+    font-size: 17px;
+    text-align: justify;
+    font-family: numans;
+}
+
+.autor-noticia{
+    text-align: center;
+    font-size: 17px;
+    font-family: space mono;
+    font-weight: bold;
+    padding-bottom: 2vh;
+    background-color:#7000FF;
+    color: white;
+    margin-left: 2vh;
+    text-rendering: optimizeSpeed;
+} 
+
+.imagem-noticia{
+    max-height: 50%;
+    overflow: hidden;
+    filter: saturate(0);
+    
+}
+
+.legenda-imagem-noticia{
+    font-size: 15px;
+    text-align: justify;
+    font-family: space mono;
+}
+
+.texto-noticia{
+    margin-top: 6vh;
+    font-size: 17px;
+    text-align: justify;
+    font-family: numans;
+
 }
