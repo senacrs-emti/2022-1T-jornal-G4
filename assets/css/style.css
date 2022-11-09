@@ -42,6 +42,32 @@ header{
     color: black;
 }
 
+main{
+    width: 70%;
+    height: auto;
+    display: block;
+    float: left;
+    background-color: green;
+}
+aside{
+    width: 30%;
+    height: auto;
+    display: block;
+    float: left;
+    background-color: #fdffe9;
+}
+.titulo-aside{
+    background-color: blue;
+    width: 42%;
+}
+.texto-aside{
+    font-size: small;
+}
+.img-news{
+    width: 100%;
+    padding-right: 2%;
+=======
+
 p{
     font-family: numans;
 }
@@ -50,6 +76,7 @@ p{
     font-size: 25px;
     color: black;
     margin: 0;
+
 }
 
 .nav-link:hover {

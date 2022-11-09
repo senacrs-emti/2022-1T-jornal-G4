@@ -14,6 +14,9 @@
   </head>
 
   <body class="container-fluid">
+
+
+  <body class="container-fluid">
     <header>
 
     </header>
@@ -27,6 +30,7 @@
   <header class="row">
   <nav class="navbar navbar-expand-lg navbar-light ">
   <a class="navbar-brand" href="index.php"><svg width="100" height="100" viewBox="0 0 264 236" fill="none" xmlns="http://www.w3.org/2000/svg">
+
     <header>
       <h1><b>Caramelo News</b></h1>
     <svg width="264" height="236" viewBox="0 0 264 236" fill="none" xmlns="http://www.w3.org/2000/svg" id="logo">
@@ -64,6 +68,10 @@
             </ul>
         </nav>
     </header>
+
     <div class="row">
+
+    <div class="row">
+
 
 

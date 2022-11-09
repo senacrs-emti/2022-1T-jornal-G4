@@ -3,6 +3,10 @@
 //include_once './includes/_header.php'
 //parte do conteudo da página
 ?>
+<main class="col-lg-8 col-12">
+    <h1>Index<h1>
+</main>
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -74,6 +78,7 @@
         </div>
     </main>
 </body>
+
 <?php
 //include do aside
 //include_once './includes/_aside.php';
