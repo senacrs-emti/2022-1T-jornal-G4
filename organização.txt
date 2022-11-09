@@ -18,3 +18,99 @@ index.php //
 noticia.php//
 organização.txt //descrição de organização
 template.html //template base
+
+
+
+
+<footer class="row">
+        <div class="col-lg-2 col-12">
+            <img id="footer-img-logo" src="./assets/img/logo-senac.png"alt="...">
+        </div>
+        <div id="footer-redes" class="col-lg-8 col-12">
+            <div class="row">    
+                <img src="https://abdet.com.br/site/wp-content/uploads/2015/02/Albert_Einstein_Head.jpg" class="img-fluid col-2" alt="...">
+                <img src="https://abdet.com.br/site/wp-content/uploads/2015/02/Albert_Einstein_Head.jpg" class="img-fluid col-2" alt="...">
+                <img src="https://abdet.com.br/site/wp-content/uploads/2015/02/Albert_Einstein_Head.jpg" class="img-fluid col-2" alt="...">
+                <img src="https://abdet.com.br/site/wp-content/uploads/2015/02/Albert_Einstein_Head.jpg" class="img-fluid col-2" alt="...">
+                <img src="https://abdet.com.br/site/wp-content/uploads/2015/02/Albert_Einstein_Head.jpg" class="img-fluid col-2" alt="...">
+                <img src="https://abdet.com.br/site/wp-content/uploads/2015/02/Albert_Einstein_Head.jpg" class="img-fluid col-2" alt="...">
+            </div>
+        </div>
+        <div id="footer-mapa" class="col-lg-2 col-12"></div>
+
+
+</footer>
+
+<div class="row">
+            <div class="col-8 thumb_w_text" >
+                <img src="./assets/img/Rectangle 13.png" style="height:100%; width:100%">
+                <div class="dark"></div>
+                <h1 class="title_for_thumb">Guerra dos Drones</h1>
+                <p class="text_for_thumb">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur aliquid distinctio deserunt molestiae. Provident facere architecto distinctio odio velit id consequuntur corporis reiciendis facilis, necessitatibus similique voluptates, exercitationem recusandae excepturi.</p>
+            </div>
+            <div class="col-4">
+                <div class="row thumb_w_text">
+                    <img src="./assets/img/Rectangle 13.png" style="height:auto;width:100%">
+                    <div class="dark"></div>
+                    <h1 class="title_for_thumb">Lorem</h1>
+                    <p class="text_for_thumb">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus molestiae.</p>
+                </div>
+                <br>
+                <div class="row thumb_w_text">
+                    <img src="./assets/img/Rectangle 13.png" style="height:auto;width:100%">
+                    <div class="dark"></div>
+                    <h1 class="title_for_thumb">Lorem</h1>
+                    <p class="text_for_thumb">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita alias dolor magni dolore repellendus.</p>
+                </div>
+            </div>
+        </div>
+        <h3>Mais Populares:</h3>
+        <div class="row">
+        <div class="col-12 col-lg-6">
+            <div class="row">
+                <img src="./assets/img/Rectangle 13.png" style="height:185px;" class="col-12 col-lg-7" alt="a">
+                <div class="col-12 col-lg-5 manchete text-justify">
+                    <h2>WEB 3.0 fracassou?</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
+                </div>
+            </div>
+            <div class="row mt-3 mb-3">
+                <img src="./assets/img/Rectangle 13.png" style="height:185px;" class="col-12 col-lg-7" alt="a">
+                <div class="col-12 col-lg-5 manchete text-justify">
+                    <h2>WEB 3.0 fracassou?</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
+                </div>
+            </div>
+            <div class="row">
+                <img src="./assets/img/Rectangle 13.png" style="height:185px;" class="col-12 col-lg-7" alt="a">
+                <div class="col-12 col-lg-5 manchete text-justify">
+                    <h2>WEB 3.0 fracassou?</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-6">
+            <div class="row">
+                <img src="./assets/img/Rectangle 13.png" style="height:185px;" class="col-12 col-lg-7" alt="a">
+                <div class="col-12 col-lg-5 manchete text-justify">
+                    <h2>WEB 3.0 fracassou?</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
+                </div>
+            </div>
+            <div class="row mt-3 mb-3">
+                <img src="./assets/img/Rectangle 13.png" style="height:185px;" class="col-12 col-lg-7" alt="a">
+                <div class="col-12 col-lg-5 manchete text-justify">
+                    <h2>WEB 3.0 fracassou?</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
+                </div>
+            </div>
+            <div class="row">
+                <img src="./assets/img/Rectangle 13.png" style="height:185px;" class="col-12 col-lg-7" alt="a">
+                <div class="col-12 col-lg-5 manchete text-justify">
+                    <h2>WEB 3.0 fracassou?</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
+                </div>
+            </div>
+        </div>
+        </div>
+
