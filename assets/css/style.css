@@ -1,4 +1,36 @@
 
+footer{
+    background-color: yellow;
+    height: auto;
+}
+#footer-logo{
+    width: 100%;
+}
+.img-git{
+    width: 50px;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+p{
+    color: black;
+}
+@media only screen and (max-width: 600px) { 
+
+    #footer-logo {
+        margin-left: 24%;
+        width: 40%;
+    }
+    .conjunto-redes{
+        padding-left: 10%;
+    }
+    #mapa{
+        padding-left:80px ;
+    }
+}
+
+
 body{
     font-family: space mono;
 }
@@ -68,7 +100,7 @@ p{
     text-align: justify;
     font-family: numans;
 
-=======
+
 .thumb_w_text{
     position: relative;
     

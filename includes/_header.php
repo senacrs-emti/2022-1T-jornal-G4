@@ -12,6 +12,9 @@
 
     <title>CNews</title>
   </head>
+
+  <body class="container-fluid">
+
   <body class="container-fluid">
 
   <header class="row">
@@ -55,4 +58,5 @@
         </nav>
     </header>
     <div class="row">
+
 
