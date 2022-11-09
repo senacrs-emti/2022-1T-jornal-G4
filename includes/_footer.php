@@ -1,3 +1,4 @@
+
 <footer class="row">
     <div class="col-lg-2 col-12">
         <a href="https://www.senacrs.com.br/unidade/84" target="_blank">
@@ -60,6 +61,12 @@
                
                 
             </div></div>
+
+
+</div>
+
+<footer>
+    
 
 </footer>
 
