@@ -1,3 +1,4 @@
+
 body{
     font-family: space mono;
 }
@@ -67,4 +68,49 @@ p{
     text-align: justify;
     font-family: numans;
 
+=======
+.thumb_w_text{
+    position: relative;
+    
+}
+h2{
+    font-size: small;
+}
+.manchete{
+    font-size: 12px;
+}
+.dark{
+    height: 100%;
+    width: 47%;
+    background-color:black;
+    opacity: 0.65;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    display: block;
+}
+.text_for_thumb{
+    position:absolute;
+    display:block;
+    top: 20%;
+    left: 51%;
+    font-size: 12px;
+    color: white;
+    text-align: justify;
+    width: 45%;
+    
+}
+.title_for_thumb{
+    position:absolute;
+    display:block;
+    top: 0%;
+    left: 51%;
+    font-size: 25px;
+    color: white;
+    text-align: justify;
+    width: 45%;
+    
+}
+.card-title{
+    float: right;
 }
