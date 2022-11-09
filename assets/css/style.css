@@ -47,7 +47,6 @@ main{
     height: auto;
     display: block;
     float: left;
-    background-color: green;
 }
 aside{
     width: 30%;
@@ -66,8 +65,7 @@ aside{
 .img-news{
     width: 100%;
     padding-right: 2%;
-=======
-
+}
 p{
     font-family: numans;
 }
@@ -126,7 +124,7 @@ p{
     font-size: 17px;
     text-align: justify;
     font-family: numans;
-
+}
 
 .thumb_w_text{
     position: relative;
