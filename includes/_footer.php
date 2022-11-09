@@ -1,37 +1,58 @@
 <footer class="row">
     <div class="col-lg-2 col-12">
-        <img id="footer-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Senac_logo.svg/2560px-Senac_logo.svg.png" alt="">
+        <a href="https://www.senacrs.com.br/unidade/84" target="_blank">
+            <img id="footer-logo" src="./assets/img/logo-senac.png" alt="">
+        </a>
     </div>
-    <div class="col-lg-8 col-12" id="conjunto-redes">
-        <div class="footer-redes">
-            <h5>João Heitor</h5>
-            <img src="http://1.bp.blogspot.com/-d4KJsuaPlfk/UqDbzuOSpnI/AAAAAAAAKeE/bqCQUrWVIcw/s1600/GioC.png" alt="" class="footer-redes">
+    <div class="col-lg-8 col-12 mt-3 conjunto-redes">
+        <div class="row">
+            <div class="col-4">
+                <div>
+                    <a href="https://github.com/JHRK" target="_blank">                    
+                        <img src="./assets/img/GitHub-Emblema.png" class="img-git" alt="">
+                        <p>João Heitor</p>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://github.com/FelipeMYung" target="_blank">                    
+                        <img src="./assets/img/GitHub-Emblema.png" class="img-git" alt="">
+                        <p>Felipe Yung</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-4">
+                <div>
+                    <a href="https://github.com/isabelalacerda1234" target="_blank">
+                        <img src="./assets/img/GitHub-Emblema.png" class="img-git" alt="">
+                        <p>Isabela Abate</p>
+                    </a>
+                </div>
+                <div>
+                    <a href="" target="_blank">
+                        <img src="./assets/img/GitHub-Emblema.png" class="img-git" alt="">
+                        <p>Erick Nunes</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-4">
+                <div>
+                    <a href="https://github.com/Leleonardi" target="_blank">
+                        <img src="./assets/img/GitHub-Emblema.png" class="img-git" alt="">
+                        <p>Leonardo Mentz</p>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://github.com/Pedro728272" target="_blank">
+                        <img src="./assets/img/GitHub-Emblema.png" class="img-git" alt="">
+                        <p>Pedro Leonardo</p>
+                    </a>
+                </div>
+            </div>
         </div>
-        <div class="footer-redes">
-            <img src="http://1.bp.blogspot.com/-d4KJsuaPlfk/UqDbzuOSpnI/AAAAAAAAKeE/bqCQUrWVIcw/s1600/GioC.png" alt="" class="footer-redes">
-            <h5>Felipe Yung</h5>
-        </div>
-        <div class="footer-redes">
-            <img src="http://1.bp.blogspot.com/-d4KJsuaPlfk/UqDbzuOSpnI/AAAAAAAAKeE/bqCQUrWVIcw/s1600/GioC.png" alt="" class="footer-redes">
-            <h5>Erick </h5>
-        </div>
-        <div class="footer-redes">
-            <img src="http://1.bp.blogspot.com/-d4KJsuaPlfk/UqDbzuOSpnI/AAAAAAAAKeE/bqCQUrWVIcw/s1600/GioC.png" alt="" class="footer-redes">
-            <h5></h5>
-        </div>
-        <div class="footer-redes">
-            <img src="http://1.bp.blogspot.com/-d4KJsuaPlfk/UqDbzuOSpnI/AAAAAAAAKeE/bqCQUrWVIcw/s1600/GioC.png" alt="" class="footer-redes">
-            <h5></h5>
-        </div>
-        <div class="footer-redes">
-            <img src="http://1.bp.blogspot.com/-d4KJsuaPlfk/UqDbzuOSpnI/AAAAAAAAKeE/bqCQUrWVIcw/s1600/GioC.png" alt="" class="footer-redes">
-            <h5></h5>
-        </div>
-                
     </div>
-    <div class="row col-12 col-lg-2 mr-2 form-inline">
+    <div class="row col-12 col-lg-2 mr-2">
         <div class="mapouter" id="mapa">
-            <div class="gmap_canvas">
+            <div class="gmap_canvas mt-4">
                 <iframe width="100%" height="auto" id="gmap_canvas" src="https://maps.google.com/maps?q=senac%20distrito%20criativo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0">
 
                 </iframe>

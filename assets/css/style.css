@@ -2,22 +2,30 @@ footer{
     background-color: yellow;
     height: auto;
 }
-footer #footer-logo{
-    width: 200px;
+#footer-logo{
+    width: 100%;
 }
-footer .footer-redes{
-    width: 100px;
-    float: left;
-    margin: 10px 10px;
+.img-git{
+    width: 50px;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+p{
+    color: black;
 }
 @media only screen and (max-width: 600px) { 
+
     #footer-logo {
         margin-left: 24%;
+        width: 40%;
     }
-    #conjunto-redes{
-        margin-left: 10%;
+    .conjunto-redes{
+        padding-left: 10%;
+    }
+    #mapa{
+        padding-left:80px ;
     }
 }
-#mapa{
-    margin: 5%;
-}
+
