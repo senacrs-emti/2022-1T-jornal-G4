@@ -42,12 +42,10 @@ p{
     text-align: center;
     font-size: 17px;
     font-family: space mono;
-    font-weight: bold;
+    font-weight: bold;  
     padding-bottom: 2vh;
-    background-color:#7000FF;
-    color: white;
+    color: rgb(0, 0, 0);
     margin-left: 2vh;
-    text-rendering: optimizeSpeed;
 } 
 
 .imagem-noticia{
