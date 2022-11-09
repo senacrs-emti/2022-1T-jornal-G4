@@ -28,7 +28,7 @@
                     </a>
                 </div>
                 <div>
-                    <a href="" target="_blank">
+                    <a href="https://github.com/ErickNetto" target="_blank">
                         <img src="./assets/img/GitHub-Emblema.png" class="img-git" alt="">
                         <p>Erick Nunes</p>
                     </a>

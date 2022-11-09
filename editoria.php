@@ -4,7 +4,6 @@ include_once './includes/_header.php'
 //parte do conteudo da página
 ?>
 <main>
-    <h1>Editoria<h1>
 </main>
 <?php
 //include do aside
