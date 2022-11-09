@@ -11,33 +11,16 @@
     <link rel="stylesheet" href="./assets/css/style.css">
 
     <title>Hello, world!</title>
-  </head>
+</head>
 <body class="container-fluid">
     
     <main class="col-lg-8 col-12">
-    
-        <div class="row">
-            <div class="col-8 thumb_w_text" >
-                <img src="./assets/img/Rectangle 13.png" style="height:100%; width:100%">
-                <div class="dark"></div>
-                <h1 class="title_for_thumb">Guerra dos Drones</h1>
-                <p class="text_for_thumb">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur aliquid distinctio deserunt molestiae. Provident facere architecto distinctio odio velit id consequuntur corporis reiciendis facilis, necessitatibus similique voluptates, exercitationem recusandae excepturi.</p>
-            </div>
-            <div class="col-4">
-                <div class="row thumb_w_text">
-                    <img src="./assets/img/Rectangle 13.png" style="height:auto;width:100%">
-                    <div class="dark"></div>
-                    <h1 class="title_for_thumb">Lorem</h1>
-                    <p class="text_for_thumb">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus molestiae.</p>
-                </div>
-                <br>
-                <div class="row thumb_w_text">
-                    <img src="./assets/img/Rectangle 13.png" style="height:auto;width:100%">
-                    <div class="dark"></div>
-                    <h1 class="title_for_thumb">Lorem</h1>
-                    <p class="text_for_thumb">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita alias dolor magni dolore repellendus.</p>
-                </div>
-            </div>
+        <div class="card bg-dark text-white">
+        <img src="./assets/img/rectangle 13.png" class="card-img" alt="...">
+        <div class="card-img-overlay">
+            <h5 class="card-title col-12">MAIOR CÂMERA DIGITAL DO MUNDO</h5>
+            <p class="card-text col-12">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quasi minima repellat iure voluptate illo optio, quos itaque voluptatibus qui delectus omnis accusamus, recusandae consequatur exercitationem? Ea, nulla. Velit, animi!</p>
+        </div>
         </div>
         <h3>Mais Populares:</h3>
         <div class="row">
@@ -49,6 +32,7 @@
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
                 </div>
             </div>
+
             <div class="row mt-3 mb-3">
                 <img src="./assets/img/Rectangle 13.png" style="height:185px;" class="col-12 col-lg-7" alt="a">
                 <div class="col-12 col-lg-5 manchete text-justify">
