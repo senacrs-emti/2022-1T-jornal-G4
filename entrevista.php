@@ -6,10 +6,11 @@ include_once './includes/_header.php'
 <main class="col-8">
 
 <audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="Entrevista.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+
+
 
 </main>
 <?php
