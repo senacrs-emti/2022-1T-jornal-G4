@@ -6,8 +6,8 @@ include_once './includes/_header.php'
 <main class="col-lg-8 col-12">
 
     <h1 class="titulo-noticia col-lg-8 col-sm-12">URGENTE! Alunos de TI do SENAC Distrito Criativo estão sofrendo de preguiça crônica.<h1>
-    <h2 class="subtitulo-noticia col-lg-8 col-sm-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h2>
-    <h4 class="autor-noticia col-lg-2 col-sm-2">Por John Doe 11/9 11h09</h4>
+    <h2 class="subtitulo-noticia col-lg-8 col-sm-12">Satélite havia sido lançado pela Nasa em novembro do ano passado.</h2>
+    <h4 class="autor-noticia col-lg-2 col-sm-2">Por João Heitor da Rosa Krüger</h4>
     <img src="./assets/img/rubaitul-azad-edgGB5DbBeM-unsplash.jpg" class="imagem-noticia col-lg-8">
     <h3 class="legenda-imagem-noticia col-lg-8 col-sm-12">De Rubaitul Azad, Unsplash</h3>
     <p class="texto-noticia col-lg-8 col-sm-12">No dia 27 de setembro o mundo foi surpreso pelo sucesso da missão DART, onde um satélite artificial se movendo a cerca de 6.1 quilômetros por segundo (21,960 km/h) se chocou intencionalmente contra o satélite natural Dimorphos, causando, inicialmente, uma enorme dispersão de poeira.</p>
