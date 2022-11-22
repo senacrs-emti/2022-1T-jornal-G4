@@ -3,9 +3,10 @@
 include_once './includes/_header.php'
 //parte do conteudo da página
 ?>
+
 <main class="col-lg-8 col-12">
     
-        <div class="card bg-dark text-white">
+        <div class="card bg-dark text-white mt-5">
         <img src="./assets/img/rectangle 13.png" class="card-img" alt="...">
         <div class="card-img-overlay">
             <h5 class="card-title col-12">MAIOR CÂMERA DIGITAL DO MUNDO</h5>
@@ -63,8 +64,6 @@ include_once './includes/_header.php'
         </div>
         </div>
     </main>
-</body>
-
 <?php
 //include do aside
 include_once './includes/_aside.php';

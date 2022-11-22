@@ -3,7 +3,7 @@
 include_once './includes/_header.php'
 //parte do conteudo da página
 ?>
-<main>
+<main class="col-lg-8 col-12">
 
     <h1 class="titulo-noticia col-lg-8 col-sm-12">URGENTE! Alunos de TI do SENAC Distrito Criativo estão sofrendo de preguiça crônica.<h1>
     <h2 class="subtitulo-noticia col-lg-8 col-sm-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h2>
