@@ -25,6 +25,9 @@
       <li class="nav-item ml-5">
         <a class="nav-link" href="index.php">Home</a>
       </li>
+      <li class="nav-item ml-5">
+        <a class="nav-link" href="index.php">Crônicas</a>
+      </li>
       <li class="nav-item">
         <a class="nav-link ml-5" href="entrevista.php">Entrevistas</a>
       </li>
