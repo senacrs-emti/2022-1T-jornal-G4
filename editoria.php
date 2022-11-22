@@ -23,8 +23,6 @@ include_once './includes/_header.php'
         <p class="col-6 mt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis delectus eaque corrupti dolores cum molestiae quo assumenda ex at autem iure sapiente suscipit tenetur vero, quae quam! Cumque, mollitia laudantium!</p>
     </div>
 
-<main>
-
 
 
 </main>
