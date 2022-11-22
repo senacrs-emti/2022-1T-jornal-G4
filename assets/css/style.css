@@ -104,13 +104,12 @@ p{
 }
 
 .autor-noticia{
-    text-align: center;
+    text-align: left;
     font-size: 17px;
     font-family: space mono;
     font-weight: bold;  
     padding-bottom: 2vh;
     color: rgb(0, 0, 0);
-    margin-left: 2vh;
 } 
 
 .imagem-noticia{
