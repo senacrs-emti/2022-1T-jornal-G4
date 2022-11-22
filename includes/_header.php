@@ -17,16 +17,16 @@
 
   <header class="row">
   <nav class="navbar navbar-expand-lg navbar-light ">
-  <a class="navbar-brand" href="index.php">
+  <a class="navbar-brand " href="index.php">
     <img src="./assets/img/Group-13.svg" />
   </a>
-    <h1 class=" mt-2"><b>Caramelo<br>News</b></h1>
+    <h1 class=" mt-2 mr-5"><b>Caramelo<br>News</b></h1>
     <ul class="navbar-nav mt-5 ml-lg-5 ml-sm-0">
       <li class="nav-item ml-5">
         <a class="nav-link" href="index.php">Home</a>
       </li>
       <li class="nav-item ml-5">
-        <a class="nav-link" href="index.php">Crônicas</a>
+        <a class="nav-link" href="cronicas.php">Crônicas</a>
       </li>
       <li class="nav-item">
         <a class="nav-link ml-5" href="entrevista.php">Entrevistas</a>

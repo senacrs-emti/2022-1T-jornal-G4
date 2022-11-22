@@ -30,6 +30,7 @@ p{
     #mapa{
         padding-left:110px ;
     }
+
 }
 
 
@@ -75,6 +76,7 @@ aside{
 }
 p{
     font-family: numans;
+    text-indent: 15px;
 }
 
 .navbar-nav{
@@ -104,14 +106,18 @@ p{
 }
 
 .autor-noticia{
-    text-align: center;
+    text-align: left;
     font-size: 17px;
     font-family: space mono;
     font-weight: bold;  
     padding-bottom: 2vh;
     color: rgb(0, 0, 0);
-    margin-left: 2vh;
+    
 } 
+
+.botao-main{
+    position: relative;
+}
 
 .imagem-noticia{
     max-height: 50%;
@@ -119,6 +125,8 @@ p{
     filter: saturate(0);
     
 }
+
+
 
 .legenda-imagem-noticia{
     font-size: 15px;
