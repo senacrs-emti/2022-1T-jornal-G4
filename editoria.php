@@ -5,7 +5,7 @@ include_once './includes/_header.php'
 ?>
 
 <main class="col-lg-8 col-12">
-    <h1>Veja as Notícias:</h1>
+    <h1 class="mt-5">Veja as Notícias:</h1>
     <div class="row">
         <img src="https://img.elo7.com.br/product/zoom/3B06B23/imagem-digital-jesus-e-leao-foto-para-quadro.jpg" class="col-6 mt-3" alt="">
         <p class="col-6 mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque rem quibusdam consectetur ducimus reprehenderit! Eaque praesentium provident error voluptatibus in pariatur. Rerum, tempora fuga unde alias odio harum libero iste.</p>

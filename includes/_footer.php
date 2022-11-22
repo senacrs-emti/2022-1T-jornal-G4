@@ -6,7 +6,7 @@
 
 
 <footer class="row">
-    <div class="col-12">
+    <div class="col-lg-4 col-4">
         <a href="https://www.senacrs.com.br/unidade/84" target="_blank">
             <img id="footer-logo" src="./assets/img/logo-senac.png" alt="">
         </a>
@@ -70,11 +70,7 @@
 
 
 </div>
-
-
-<footer>
     
-
 </footer>
 
 
