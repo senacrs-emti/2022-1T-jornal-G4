@@ -23,10 +23,7 @@
     <h1 class=" mt-2"><b>Caramelo<br>News</b></h1>
     <ul class="navbar-nav mt-5 ml-lg-5 ml-sm-0">
       <li class="nav-item ml-5">
-        <a class="nav-link" href="noticia.php">Cultura</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link ml-5" href="noticia.php">Tecnologia</a>
+        <a class="nav-link" href="index.php">Home</a>
       </li>
       <li class="nav-item">
         <a class="nav-link ml-5" href="entrevista.php">Entrevistas</a>

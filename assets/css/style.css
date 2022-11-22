@@ -58,10 +58,14 @@ aside{
     float: left;
     background-color: #fdffe9;
 }
-.titulo-aside{
-    background-color: blue;
+.titulo-destaque-geral{
+    background-color: #7000FF;
+    color: white;
     width: 42%;
+    margin-top: 5%;
+    padding-left: 5%;
 }
+
 .texto-aside{
     font-size: small;
 }
@@ -173,4 +177,12 @@ h2{
 }
 .card-title{
     float: right;
+}
+
+.subtitulo-noticia-index{
+    color: #fdffe9;
+}
+
+.card-img-overlay{
+    border-radius: 0;
 }
