@@ -16,6 +16,7 @@ a:link{
 p{
     color: black;
 }
+
 @media only screen and (max-width: 600px) { 
 
     #footer-logo {
