@@ -6,11 +6,12 @@ include_once './includes/_header.php'
 
 <main class="col-lg-8 col-12">
     
-<div class="card-img-overlay">
-    <a href="cronica-pedro.php">
-            <h5 class="card-title mt-5 col-12">Dia de um desinteressado </h5>
-            <p class="card-text col-12">Autor: Pedro Leonardo Schwanck Leffa</p>
-        </div>
+<div class="cronica-div">
+<a href="cronica-pedro.php">
+<h1 class="titulo-noticia col-lg-8 col-sm-12  mt-5">Dia de um desinteressado <h1>
+<h4 class="autor-noticia col-lg-12 col-sm-12">Por Pedro Leonardo</h4>
+</a>
+</div>
 
     </main>
 <?php
