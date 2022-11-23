@@ -7,7 +7,7 @@ include_once './includes/_header.php'
 <main class="col-lg-8 col-12">
     <h1 class="mt-5">Veja as Notícias:</h1>
     <div class="row">
-        <img src="./assets/img/noticia-f.jpg" class="col-lg-6 col-12 mt-3" alt="">
+        <img src="./assets/img/maior-câmera.jpg" class="col-lg-6 col-12 mt-3" alt="">
         <div class="col-lg-6 col-12 mt-3">
             <a href="Maior-Camera-Do-Mundo.php">
             <h3>A MAIOR CÂMERA DIGITAL DO MUNDO QUE CAPTA ATÉ POEIRA LUNAR</h3>
