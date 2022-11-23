@@ -16,8 +16,8 @@
   <body class="container-fluid">
 
   <header class="row">
-  <nav class="navbar navbar-expand-lg navbar-light ">
-  <a class="navbar-brand " href="index.php">
+  <nav class="navbar navbar-expand-lg">
+  <a class="navbar-brand" href="index.php">
     <img src="./assets/img/Group-13.svg" />
   </a>
     <h1 class=" mt-2 mr-5"><b>Caramelo<br>News</b></h1>
@@ -37,5 +37,6 @@
     </ul>
 
 </nav>
+
   </header>
   <div class="row">
