@@ -1,6 +1,6 @@
 
 footer{
-    background-color: yellow;
+    background-color: #ffce01;
     height: auto;
     float: none;
 }
@@ -53,7 +53,6 @@ main{
     background-color: #fdffe9; 
 }
 aside{
-    width: 30%;
     height: auto;
     display: block;
     float: left;
@@ -62,9 +61,7 @@ aside{
 .titulo-destaque-geral{
     background-color: #7000FF;
     color: white;
-    width: 42%;
     margin-top: 5%;
-    padding-left: 5%;
 }
 
 .texto-aside{
@@ -76,7 +73,7 @@ aside{
 }
 p{
     font-family: numans;
-    text-indent: 15px;
+    text-indent: 0px;
 }
 
 .navbar-nav{
@@ -152,6 +149,7 @@ p{
     position: relative;
     
 }
+
 h2{
     font-size: small;
 }
@@ -159,6 +157,11 @@ h2{
     font-size: 12px;
     
 }
+
+.imagem-noticias-main{
+    width: 110px;
+} 
+
 .dark{
     height: 100%;
     width: 47%;
@@ -201,4 +204,8 @@ h2{
 
 .card-img-overlay{
     border-radius: 0;
+}
+
+.texto-cronica{
+    text-indent: 30px;
 }

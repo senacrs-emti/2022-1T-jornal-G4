@@ -5,7 +5,7 @@ include_once './includes/_header.php'
 ?>
 <main class="col-lg-8 col-12">
 
-    <h1 class="titulo-noticia col-lg-8 col-sm-12">TECNOLOGIA AGROPECUÁRIA VEIO PRA FICAR<h1>
+    <h1 class="titulo-noticia col-lg-8 col-sm-12">TECNOLOGIA AGROPECUÁRIA VEIO PARA FICAR<h1>
     <h2 class="subtitulo-noticia col-lg-8 col-sm-12">A TECNOLOGIA REVOLUCIONÁRIA ALAVANCA A INDUSTRIA AGROPECUARIA A NIVEIS INIMAGINAVEIS</h2>
     <h4 class="autor-noticia col-lg-2 col-sm-2">Por Pedro Leonardo Schwanck Leffa</h4>
     <img src="./assets/img/rubaitul-azad-edgGB5DbBeM-unsplash.jpg" class="imagem-noticia col-lg-8">

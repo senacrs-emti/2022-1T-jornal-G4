@@ -15,7 +15,7 @@ De onde surgiu essa prática? Da curiosidade e negligência do ser humano, fator
 Graças a esses fatores a mídia sempre teve um público garantido, jovens curiosos com pais irresponsáveis. Desde os primórdios podemos ver a os meios de comunicação abusando desse contexto. 
 
  
-
+<img src="./assets/img/xuxa.jpg" class="card-img imagem-noticia" alt="...">
 	 
 
 Esta imagem foi retirada do Xou da Xuxa um programa “infantil”, exemplos como esse se tem aos montes, podemos observar uma clara apelação no figurino usado pelas figuras femininas adultas no programa. Uma criança não costuma perceber a malicia utilizada até que algumas perguntas comecem a serem feitas e aos poucos vemos seu desenvolvimento com a banalização de tais conteúdos, fazendo deles “normais”. 
