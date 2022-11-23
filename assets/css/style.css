@@ -76,7 +76,7 @@ aside{
 }
 p{
     font-family: numans;
-    text-indent: 15px;
+    text-indent: 0px;
 }
 
 .navbar-nav{
@@ -151,6 +151,11 @@ h2{
 .manchete{
     font-size: 12px;
 }
+
+.imagem-noticias-main{
+    width: 110px;
+} 
+
 .dark{
     height: 100%;
     width: 47%;
