@@ -9,7 +9,7 @@ include_once './includes/_header.php'
     <div class="row">
         <img src="./assets/img/noticia-f.jpg" class="col-lg-6 col-12 mt-3" alt="">
         <div class="col-lg-6 col-12 mt-3">
-            <a href="">
+            <a href="Maior-Camera-Do-Mundo.php">
             <h3>A MAIOR CÂMERA DIGITAL DO MUNDO QUE CAPTA ATÉ POEIRA LUNAR</h3>
             <p>LSST ou Legacy Survey of Space and Time é a maior câmera do mundo sendo desenvolvida pelo SLAC (Centro de Aceleração Linear de Stanford), atualmente a câmera não está totalmente completa a previsão é de ficar pronta em...</p>
             </a>
@@ -61,9 +61,6 @@ include_once './includes/_header.php'
         </div>
     </div>
 
-
-
-</main>
 <?php
 //include do aside
 include_once './includes/_aside.php';
