@@ -32,7 +32,7 @@
         <a class="nav-link ml-5" href="entrevista.php">Entrevistas</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link ml-5" href="editoria.php">Diretoria</a>
+        <a class="nav-link ml-5" href="editoria.php">Editoria</a>
       </li>
     </ul>
 
