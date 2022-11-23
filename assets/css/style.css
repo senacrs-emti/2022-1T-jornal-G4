@@ -125,6 +125,13 @@ p{
     filter: saturate(0);
     
 }
+.text-yellow *{
+    color: white!important;
+    background-color: #7000FF;
+}
+.blacknwhite{
+    filter: saturate(0);
+}
 
 
 
@@ -150,6 +157,7 @@ h2{
 }
 .manchete{
     font-size: 12px;
+    
 }
 .dark{
     height: 100%;
