@@ -117,10 +117,9 @@ p{
 }
 
 .imagem-noticia{
-    max-height: 50%;
+    width: 100%;
     overflow: hidden;
     filter: saturate(0);
-    
 }
 .text-yellow *{
     color: white!important;

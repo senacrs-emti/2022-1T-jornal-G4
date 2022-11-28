@@ -60,7 +60,7 @@
             </div>
         </div>
     </div>
-    <div class="row col-lg-4">
+    <div class="col-lg-4">
         <div class="mapouter" id="mapa">
             <div class="gmap_canvas mt-4">
                 <iframe width="100%" height="auto" id="gmap_canvas" src="https://maps.google.com/maps?q=senac%20distrito%20criativo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0">
