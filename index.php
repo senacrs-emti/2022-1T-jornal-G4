@@ -14,7 +14,7 @@ include_once './includes/_header.php'
         </div>
         </div></a>
         <h3 class="titulo-destaque-geral">Mais Populares:</h3>
-        <div class="container">
+        <div class="container" style="margin-top:5%;margin-bottom:15%;">
             <div class="row">
                 <div class="col-6">
                     <a href="#"><img src="./assets/img/Rectangle 13.png" class="col-12" alt="a">
@@ -32,7 +32,7 @@ include_once './includes/_header.php'
                 </div>
             </div>    
         </div>
-        <div class="container">
+        <div class="container" style="margin-top:15%;margin-bottom:15%;">
             <div class="row">
                 <div class="col-6">
                 <a href="#"><img src="./assets/img/Rectangle 13.png" class="col-12" alt="a">
@@ -50,7 +50,7 @@ include_once './includes/_header.php'
                 </div>
             </div>    
         </div>
-        <div class="container">
+        <div class="container" style="margin-top:15%;margin-bottom:15%;">
             <div class="row">
                 <div class="col-6">
                 <a href="#"><img src="./assets/img/Rectangle 13.png" class="col-12" alt="a">
