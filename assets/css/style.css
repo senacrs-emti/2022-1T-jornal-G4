@@ -90,7 +90,7 @@ p{
 }
 
 .titulo-noticia{
-    font-size: 25px;
+    font-size: 35px;
     text-align: justify;
     margin-top: 5vh;
     font-weight: bold;
@@ -156,7 +156,9 @@ h2{
     font-size: 12px;
     
 }
-
+.titulo-manchete{
+    font-size: x-large;
+}
 .imagem-noticias-main{
     width: 110px;
 } 

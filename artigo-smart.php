@@ -7,8 +7,8 @@ include_once './includes/_header.php'
 
     <h1 class="titulo-noticia">Importância do Digital Influencer<h1>
     <h4 class="autor-noticia">João Heitor da Rosa Krüger</h4>
-    <img src="./assets/img/" class="imagem-noticia">
-    <h3 class="legenda-imagem-noticia"></h3>
+    <img src="./assets/img/artigo-j.png" class="imagem-noticia">
+    <h3 class="legenda-imagem-noticia">João Heitor da Rosa Krüger</h3>
     <p class="texto-noticia">Seja honesto, você já cogitou a compra de uma assistente virtual. Se não, já pensou sobre a sua vida com uma, e francamente, as atualidades e notícias estarem à um comando de distância é algo extremamente convidativo, e você não é culpado por isso.</p>
     <p class="texto-noticia">Mas o que realmente me incomoda é o horizonte de ideias que foi aberto por causa da introdução de Smart Assistants , que acredite ou não, gerou a produção de inúmeros produtos que utilizam dessa tecnologia para funcionarem, como as lâmpadas inteligentes ou cortinas automáticas. Só a existência desses objetos levanta a questão: existe algum problema ou inconveniência que eles resolvam? Ou só existem para um nicho de mercado que poucos têm acesso?</p>
     <p class="texto-noticia">O último questionamento é o que fica, afinal um dos produtos mais famosos e almejados é a Smart Fridge, que custa em torno de 20 mil reais, um valor absurdo para quase toda a população do planeta Terra, e mesmo assim suas “vantagens” continuam sendo vendidas como necessárias. A simples existência deste produto é a causa da minha indignação como produtos Smart, que são comercializados como substitutos de coisas e ações simples.</p>
