@@ -14,7 +14,7 @@ include_once './includes/_header.php'
 </div>
 <div class="cronica-div">
 <a href="cronica-felipe.php">
-<h1 class="titulo-noticia col-lg-8 col-sm-12  mt-5">Estudar  <h1>
+<h1 class="titulo-noticia col-lg-8 col-sm-12  mt-5">Entender os outros<h1>
 <h4 class="autor-noticia col-lg-12 col-sm-12">Por Felipe Martins Yung</h4>
 </a>
 </div>
