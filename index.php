@@ -14,53 +14,42 @@ include_once './includes/_header.php'
         </div>
         </div>
         <h3 class="titulo-destaque-geral">Mais Populares:</h3>
-        <div class="row">
-        <div class="col-12 col-lg-6">
+        <div class="container">
             <div class="row">
-                <img src="./assets/img/Rectangle 13.png" style="height:185px;" class="col-12 col-lg-7" alt="a">
-                <div class="col-12 col-lg-5 manchete text-justify">
-                    <h2>WEB 3.0 fracassou?</h2>
-                    <p >Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
+                <div class="col-6">
+                    <img src="./assets/img/Rectangle 13.png" class="col-12" alt="a">
+                    <div class="col-auto manchete text-justify">
+                        <h2>WEB 3.0 fracassou?</h2>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
+                    </div>
                 </div>
-
-            <div class="row mt-3 mb-3">
-                <img src="./assets/img/Rectangle 13.png" class="col-12 col-lg-7 imagem-noticias-main" alt="a">
-                <div class="col-12 col-lg-5 manchete text-justify">
-                    <h2>TECNOLOGIA AGROPECUÁRIA VEIO PRA FICAR </h2>
-                    <p></p>
+                <div class="col-6">
+                    <img src="./assets/img/Rectangle 13.png" class="col-12" alt="a">
+                    <div class="col-auto manchete text-justify">
+                        <h2>WEB 3.0 fracassou?</h2>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
+                    </div>
                 </div>
-            </div>
-            <div class="row">
-                <img src="./assets/img/Rectangle 13.png" class="col-12 col-lg-7 imagem-noticias-main" alt="a">
-                <div class="col-12 col-lg-5 manchete text-justify">
-                    <h2>WEB 3.0 fracassou?</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
-                </div>
-            </div>
+            </div>    
         </div>
-        <div class="col-12 col-lg-6">
+        <div class="container">
             <div class="row">
-                <img src="./assets/img/Rectangle 13.png" class="col-12 col-lg-7 imagem-noticias-main" alt="a">
-                <div class="col-12 col-lg-5 manchete text-justify">
-                    <h2>WEB 3.0 fracassou?</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
+                <div class="col-6">
+                    <img src="./assets/img/Rectangle 13.png" class="col-12" alt="a">
+                    <div class="col-auto manchete text-justify">
+                        <h2>WEB 3.0 fracassou?</h2>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <img src="./assets/img/Rectangle 13.png" class="col-12" alt="a">
+                    <div class="col-auto manchete text-justify">
+                        <h2>WEB 3.0 fracassou?</h2>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
+                    </div>
                 </div>
             </div>
-            <div class="row mt-3 mb-3">
-                <img src="./assets/img/Rectangle 13.png" class="col-12 col-lg-7 imagem-noticias-main " alt="a">
-                <div class="col-12 col-lg-5 manchete text-justify">
-                    <h2>WEB 3.0 fracassou?</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
-                </div>
-            </div>
-            <div class="row">
-                <img src="./assets/img/Rectangle 13.png" class="col-12 col-lg-7 imagem-noticias-main" alt="a">
-                <div class="col-12 col-lg-5 manchete text-justify">
-                    <h2>WEB 3.0 fracassou?</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore voluptatem perspiciatis rerum architecto possimus ducimus quod pariatur obcaecati, aliquid quis nihil facere iusto fugiat explicabo eos veritatis labore! Laboriosam, ab!</p>
-                </div>
-            </div>
-        </div>
+        
     </main>
 <?php
 //include do aside
