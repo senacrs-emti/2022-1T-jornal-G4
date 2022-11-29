@@ -8,7 +8,7 @@
         </div>
         <div class="row">
             <div class="col-6"><a href="artigo-erotização.php"><img src="./assets/img/xuxa.jpg" class="img-news" alt=""></a></div>
-            <div class="col-6"><a href="artigo-erotização.php"><h2>EROTIZAÇÃO PRECOCE </h5><p class="texto-aside">Observamos de forma exponencial pré-adolescentes e crianças sendo expostas a práticas e pensamentos que só deveriam dizer respeit...</p></a></div>
+            <div class="col-6"><a href="artigo-erotização.php"><h5>EROTIZAÇÃO PRECOCE </h5><p class="texto-aside">Observamos de forma exponencial pré-adolescentes e crianças sendo expostas a práticas e pensamentos que só deveriam dizer respeit...</p></a></div>
         </div>
         <div class="row">
             <div class="col-6"><a href="artigo-smart.php"><img src="https://cdn.create.vista.com/api/media/small/191578550/stock-photo-cropped-shot-robot-businessman-doing" class="img-news" alt=""></a></div>
