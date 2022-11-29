@@ -44,6 +44,11 @@ header{
     font-family: space mono;
     color: black;
 }
+.amarelo{
+    
+    background-color:#ffce01;
+    color: black;
+}
 .noticia{
         background-color: #ffce01;
         border: none;
@@ -210,6 +215,9 @@ a{
     width: 45%;
     
 }
+.text-cartao{
+    font-size: 14px;
+}
 .title_for_thumb{
     position:absolute;
     display:block;
@@ -225,9 +233,7 @@ a{
     float: right;
 }
 
-.subtitulo-noticia-index{
-    color: #fdffe9;
-}
+
 
 .card-img-overlay{
     border-radius: 0;
