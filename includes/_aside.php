@@ -11,7 +11,7 @@
             <div class="col-6"><a href="artigo-erotização.php"><h5>EROTIZAÇÃO PRECOCE </h5><p class="texto-aside">Observamos de forma exponencial pré-adolescentes e crianças sendo expostas a práticas e pensamentos que só deveriam dizer respeit...</p></a></div>
         </div>
         <div class="row">
-            <div class="col-6"><a href="artigo-smart.php"><img src="https://cdn.create.vista.com/api/media/small/191578550/stock-photo-cropped-shot-robot-businessman-doing" class="img-news" alt=""></a></div>
+            <div class="col-6"><a href="artigo-smart.php"><img src="./assets/img/artigo-j.png" class="img-news" alt=""></a></div>
             <div class="col-6"><a href="artigo-smart.php"><h5>SEJA INTELIGENTE, NÃO SMART. </h5><p class="texto-aside">Seja honesto, você já cogitou a compra de uma assistente virtual. Se não, já pensou sobre a sua vida com uma, e francamente, as atualidades e notícias...</p></a></div>
         </div>
         <div class="row">
