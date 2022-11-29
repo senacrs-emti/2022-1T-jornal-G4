@@ -43,9 +43,9 @@ include_once './includes/_header.php'
         </div>
     </div>
     <div class="row">
-        <img src="https://img.elo7.com.br/product/zoom/3B06B23/imagem-digital-jesus-e-leao-foto-para-quadro.jpg" class="col-lg-6 col-12 mt-3" alt="">
+        <img src="./assets/img/imgeditoria.png" class="col-lg-6 col-12 mt-3" alt="perfume">
         <div class="col-lg-6 col-12 mt-3">
-        <a href="">
+        <a href="ElonMusk-vendedordeperfume.php">
             <h3>Elon Musk virou vendedor de perfume?</h3>
             <p>Elon Musk, um dos homens mais ricos do mundo, surpreendeu os fãs no dia 11 de outubro com a comercialização do perfume “Burnt Hair” (Cabelo Queimado), em oito dias o produto já estava esgota no seu canal oficial de vendas.</p>
             </a>
