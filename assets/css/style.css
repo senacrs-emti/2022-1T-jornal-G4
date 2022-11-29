@@ -149,11 +149,17 @@ p{
     
 }
 
+h2{
+    font-size: medium;
+}
 .manchete{
     font-size: 12px;
     
 }
 
+.imagem-noticias-main{
+    width: 110px;
+} 
 
 .dark{
     height: 100%;
