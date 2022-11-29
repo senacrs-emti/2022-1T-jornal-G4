@@ -8,7 +8,7 @@ include_once './includes/_header.php'
     
 <div class="cronica-div">
 <a href="cronica-pedro.php">
-<h1 class="titulo-noticia col-lg-8 col-sm-12  mt-5">Dia de um desinteressado <h1>
+<h1 class="titulo-noticia col-lg-8 col-sm-12 no-blue  mt-5">Dia de um desinteressado <h1>
 <h4 class="autor-noticia col-lg-12 col-sm-12">Por Pedro Leonardo</h4>
 </a>
 </div>
@@ -20,7 +20,7 @@ include_once './includes/_header.php'
 </div>
 <div class="cronica-div">
 <a href="cronica-leonardo.php">
-<h1 class="titulo-noticia col-lg-8 col-sm-12  mt-5">SENTIMENTOS OCULTOS DOEM<h1>
+<h1 class="titulo-noticia col-lg-8 col-sm-12  mt-5">Sentimentos Ocultos Doem<h1>
 <h4 class="autor-noticia col-lg-12 col-sm-12">Por Leonardo Mentz</h4>
 </a>
 </div>

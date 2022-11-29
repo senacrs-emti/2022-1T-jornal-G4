@@ -10,7 +10,7 @@ include_once './includes/_header.php'
         <img src="./assets/img/maior-câmera.jpg" class="col-lg-6 col-12 mt-3" alt="">
         <div class="col-lg-6 col-12 mt-3">
             <a href="Maior-Camera-Do-Mundo.php">
-            <h3>A MAIOR CÂMERA DIGITAL DO MUNDO QUE CAPTA ATÉ POEIRA LUNAR</h3>
+            <h3>A maior câmera digital do mundo que capta até poeira lunar</h3>
             <p>LSST ou Legacy Survey of Space and Time é a maior câmera do mundo sendo desenvolvida pelo SLAC (Centro de Aceleração Linear de Stanford), atualmente a câmera não está totalmente completa a previsão é de ficar pronta em...</p>
             </a>
         </div>
@@ -28,7 +28,7 @@ include_once './includes/_header.php'
         <img src="./assets/img/agro.jpg" class="col-lg-6 col-12 mt-3" alt="">
         <div class="col-lg-6 col-12 mt-3">
         <a href="Tecnologia-agropecuária-veio-para-ficar.php">
-            <h3>TECNOLOGIA AGROPECUÁRIA VEIO PARA FICAR</h3>
+            <h3>Tecnologia agropecuária veio para ficar</h3>
             <p>A tecnologia agropecuária avança de forma exponencial a décadas. Um panorama mostra que em 1996 a tecnologia respondia por 50,6% do total da produção do agro. Uma década depois, tivemos um...</p>
             </a>
         </div>
@@ -55,7 +55,7 @@ include_once './includes/_header.php'
         <img src="https://img.elo7.com.br/product/zoom/3B06B23/imagem-digital-jesus-e-leao-foto-para-quadro.jpg" class="col-lg-6 col-12 mt-3" alt="">
         <div class="col-lg-6 col-12 mt-3">
         <a href="">
-            <h3>Título pa</h3>
+            <h3>Lorem</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque rem quibusdam consectetur ducimus reprehenderit! Eaque praesentium provident error voluptatibus in pariatur. Rerum, tempora fuga unde alias odio harum libero iste.</p>
             </a>
         </div>

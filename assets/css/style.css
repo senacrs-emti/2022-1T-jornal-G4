@@ -44,6 +44,29 @@ header{
     font-family: space mono;
     color: black;
 }
+.noticia{
+        background-color: #ffce01;
+        border: none;
+        color: black;
+        text-align: center;
+        transition: 0.3s;
+}
+.noticia:hover {
+    background-color: black;
+    color: #ffce01;
+  }
+
+.aside-ntc{
+    background-color: #7000FF;
+    border: none;
+    color: white;
+    text-align: center;
+    transition: 0.3s;
+}
+.aside-ntc:hover {
+background-color: white;
+color: #7000FF;
+}
 
 main{
     width: 70%;
@@ -160,7 +183,10 @@ h2{
 .imagem-noticias-main{
     width: 110px;
 } 
-
+a{
+    text-decoration: none;
+    color: inherit;
+}
 .dark{
     height: 100%;
     width: 47%;
