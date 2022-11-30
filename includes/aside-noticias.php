@@ -3,27 +3,27 @@
         <div class="row">
             <div class="col">
                 <div class="card" style="margin: 5%">
-                    <img class="blacknwhite" height="150px" src="./assets/img/Apple.jpg" class="card-img-top" alt="...">
-                    <a href="#"><div class="card-body">
-                        <h5 class="aside-ntc">APPLE E SUA TÁTICA MANIPULADORA</h5>
+                    <img class="blacknwhite" height="150px" src="./assets/img/maior-câmera.jpg" class="card-img-top" alt="...">
+                    <a href="Maior-Camera-Do-Mundo.php"><div class="card-body">
+                        <h5 class="aside-ntc">A maior câmera digital do mundo que capta até poeira lunar</h5>
                         <hr>
-                        <p class="card-text text-cartao">Nós todos sabemos que Apple é uma empresa que já está a anos no mercado vendendo seus...</p>
+                        <p class="card-text text-cartao">A maior câmera do mundo do observatório de Vera C. Rubin, na Cordilheira dos Andes, é tão potente que capta poeira lunar.</p>
                     </div></a>
                 </div>
                 <div class="card" style="margin: 5%">
-                    <img class="blacknwhite" height="150px" src="./assets/img/xuxa.jpg" class="card-img-top" alt="...">
-                    <a href="#"><div class="card-body">
-                        <h5 class="aside-ntc">EROTIZAÇÃO PRECOCE</h5>
+                    <img class="blacknwhite" height="150px" src="./assets/img/noticia-j.jpg" class="card-img-top" alt="...">
+                    <a href="Satélite-DART-altera-órbita.php"><div class="card-body">
+                        <h5 class="aside-ntc">Satélite DART sucedeu em alterar órbita do asteroide Dimorphos.</h5>
                         <hr>
-                        <p class="card-text text-cartao">Observamos de forma exponencial pré-adolescentes e crianças sendo expostas a práticas e pensamentos que só deveriam dizer respeit...</p>
+                        <p class="card-text text-cartao">Satélite havia sido lançado pela Nasa em novembro do ano passado.</p>
                     </div></a>
                 </div>
                 <div class="card" style="margin: 5%">
-                    <img class="blacknwhite" height="150px" src="./assets/img/artigo-j.png" class="card-img-top" alt="...">
-                    <a href="#"><div class="card-body">
-                        <h5 class="aside-ntc">SEJA INTELIGENTE, NÃO SMART.</h5>
+                    <img class="blacknwhite" height="150px" src="./assets/img/agro.jpg" class="card-img-top" alt="...">
+                    <a href="Tecnologia-agropecuária-veio-para-ficar.php"><div class="card-body">
+                        <h5 class="aside-ntc">Tecnologia agropecuária veio para ficar</h5>
                         <hr>
-                        <p class="card-text text-cartao">Seja honesto, você já cogitou a compra de uma assistente virtual. Se não, já pensou sobre a sua vida com uma, e francamente, as atualidades e notícias...</p>
+                        <p class="card-text text-cartao">A TECNOLOGIA REVOLUCIONÁRIA ALAVANCA A INDUSTRIA AGROPECUARIA A NIVEIS INIMAGINAVEIS</p>
                     </div></a>
                 </div>
                 <div class="card" style="margin:5%">

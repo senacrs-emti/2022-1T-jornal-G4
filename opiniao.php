@@ -4,7 +4,7 @@ include_once './includes/_header.php'
 //parte do conteudo da página
 ?>
 
-<main class="col-12">
+<main class="col-lg-8 col-12">
     
 <div class="cronica-div">
 <a href="artigo-saude-mental.php">
@@ -43,6 +43,8 @@ include_once './includes/_header.php'
 
     </main>
 <?php
+
+include_once './includes/aside-noticias.php';
 
 //include do footer
 include_once './includes/_footer.php';
