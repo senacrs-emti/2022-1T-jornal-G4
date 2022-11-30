@@ -16,7 +16,7 @@ include_once './includes/_header.php'
         </div>
     </div>
     <div class="row">
-        <img src="./assets/img/noticia-joao.jpg" class="col-lg-6 col-12 mt-3" alt="">
+        <img src="./assets/img/noticia-j.jpg" class="col-lg-6 col-12 mt-3" alt="">
         <div class="col-lg-6 col-12 mt-3">
         <a href="Satélite-DART-altera-órbita.php">
             <h3>Satélite DART sucedeu em alterar órbita do asteroide Dimorphos.</h3>

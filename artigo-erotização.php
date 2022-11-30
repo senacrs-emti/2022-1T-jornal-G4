@@ -7,7 +7,7 @@ include_once './includes/_header.php'
 
     <h1 class="titulo-noticia">EROTIZAÇÃO PRECOCE <h1>
     <h4 class="autor-noticia">Pedro Leonardo Schwanck Leffa</h4>
-    <img src="./assets/img/" class="imagem-noticia">
+    <img src="./assets/img/xuxa.jpg" class="imagem-noticia">
     <h3 class="legenda-imagem-noticia"></h3>
     <p class="texto-noticia">Observamos de forma exponencial pré-adolescentes e crianças sendo expostas a práticas e pensamentos que só deveriam dizer respeito a uma pessoa mais madura, um adulto seria o melhor exemplo. Primeiramente a que exposição estou me referindo? Me refiro principalmente a qualquer tipo de conotação sexual, isso inclui até o mais inocente dos beijos.</p>
     <p class="texto-noticia">Chegamos ao ponto onde banalizamos a inocência de nossas crianças, deixando-as consumirem qualquer conteúdo com pouca ou nenhuma supervisão. O motivo disso é falta de comprometimento. Muitos responsáveis tentam argumentar insinuando que suas crianças são maduras independente da idade, ou que precisam de liberdade para elas explorarem e aprenderem sobre o mundo por conta própria. Nesse contexto qualquer argumento do gênero não passa de uma balela, e lá no fundo sabemos que aqueles responsáveis não estão preparados ou só não se importam com seus filhos, caso contrário tentariam manter uma supervisão maior.</p>

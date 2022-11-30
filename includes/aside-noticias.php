@@ -27,20 +27,13 @@
                     </div></a>
                 </div>
                 <div class="card" style="margin:5%">
-                    <img class="blacknwhite" height="150px" src="./assets/img/influencer.png" class="card-img-top" alt="...">
+                    <img class="blacknwhite" height="150px" src="./assets/img/elonmusk.png" class="card-img-top" alt="...">
                     <a href="#"><div class="card-body">
-                        <h5 class="aside-ntc">A IMPORTÂNCIA DO DIGITAL INFLUENCER</h5>
+                        <h5 class="aside-ntc">Elon Musk virou vendedor de perfume?</h5>
                         <hr>
-                        <p class="card-text text-cartao">Influencer digital faz parte do marketing que, ao contrário do que as pessoas pensam, não é novo e as empresas já utilizam há tempos...</p>
+                        <p class="card-text text-cartao">Elon Musk surpreende fãs com perfume que esgotou em oito dias e hoje é vendido no ebay por 23 mil reais.</p>
                     </div></a>
                 </div>
-                <div class="card" style="margin:5%">
-                    <img class="blacknwhite" height="150px" src="https://cdn.create.vista.com/api/media/small/191578550/stock-photo-cropped-shot-robot-businessman-doing" class="card-img-top" alt="...">
-                    <a href="#"><div class="card-body">
-                        <h5 class="aside-ntc">SAÚDE MENTAL COM REDES SOCIAIS</h5>
-                        <hr>
-                        <p class="card-text text-cartao">Provavelmente você já ouviu falar desse meme: “em pleno 2022, ano da tecnologia, da copa do mundo”. Pode parecer brincadeira, mas...</p>
-                    </div></a>
                 </div>
             </div>
         </div>
