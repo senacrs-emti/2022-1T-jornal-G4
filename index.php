@@ -6,7 +6,7 @@ include_once './includes/_header.php'
 
 <main class="col-lg-8 col-12">
     
-        <a href="#"><div class="card bg-dark text-white mt-5">
+        <a href="Maior-Camera-Do-Mundo.php"><div class="card bg-dark text-white mt-5">
         <img src="./assets/img/maior-câmera.jpg" class="blacknwhite card-img" alt="...">
         <div class="card-img-overlay">
             <h4 class="card-title col-12">MAIOR CÂMERA DIGITAL DO MUNDO</h4>

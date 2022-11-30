@@ -1,4 +1,4 @@
-<aside class="col-lg-4 col-12">
+<aside class="col-lg-4 col-12 pt-5">
     <div class="container">
         <div class="row">
             <div class="col">
