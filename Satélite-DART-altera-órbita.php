@@ -5,7 +5,7 @@ include_once './includes/_header.php'
 ?>
 <main class="col-lg-8 col-12">
 
-    <h1 class="titulo-noticia">URGENTE! Alunos de TI do SENAC Distrito Criativo estão sofrendo de preguiça crônica.<h1>
+    <h1 class="titulo-noticia">Satélite da missão DART sucedeu em alterar órbita do asteroide Dimorphos.  <h1>
     <h2 class="subtitulo-noticia">Satélite havia sido lançado pela Nasa em novembro do ano passado.</h2>
     <h4 class="autor-noticia">Por João Heitor da Rosa Krüger</h4>
     <img src="./assets/img/noticia-j.jpg" class="imagem-noticia">

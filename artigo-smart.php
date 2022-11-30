@@ -16,8 +16,6 @@ include_once './includes/_header.php'
     <p class="texto-noticia">Mas a realidade é dura: Os smart gadgets vieram para ficar, e se forem sair de circulação será apenas após muita pressão de nós, os consumidores. Mas como afirmei antes, penso que todo este nicho tecnológico do mercado ainda possui chance de se redimir e se tornar complementar, eficiente ou até vital para o bom uso das tecnologias dentro de casa. </p>
 </main>
 <?php
-//include do aside
-include_once './includes/_aside.php';
 
 //include do footer
 include_once './includes/_footer.php';

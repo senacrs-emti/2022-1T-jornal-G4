@@ -20,8 +20,6 @@ include_once './includes/_header.php'
 
 </main>
 <?php
-//include do aside
-include_once './includes/_aside.php';
 
 //include do footer
 include_once './includes/_footer.php';

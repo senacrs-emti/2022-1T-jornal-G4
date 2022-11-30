@@ -16,11 +16,11 @@ include_once './includes/_header.php'
         </div>
     </div>
     <div class="row">
-        <img src="./assets/img/noticia-j.jpg" class="col-lg-6 col-12 mt-3" alt="">
+        <img src="./assets/img/noticia-joao.jpg" class="col-lg-6 col-12 mt-3" alt="">
         <div class="col-lg-6 col-12 mt-3">
         <a href="Satélite-DART-altera-órbita.php">
             <h3>Satélite DART sucedeu em alterar órbita do asteroide Dimorphos.</h3>
-            <p>No dia 27 de setembro o mundo foi surpreso pelo sucesso da missão DART, onde um satélite artificial se movendo a cerca de 6.1 quilômetros por segundo (21,960 km/h) se chocou intencionalmente contra...</p>
+            <p>Satélite havia sido lançado pela Nasa em novembro do ano passado. </p>
             </a>
         </div>
     </div>

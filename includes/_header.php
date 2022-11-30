@@ -34,6 +34,9 @@
       <li class="nav-item">
         <a class="nav-link ml-5" href="editoria.php">Editoria</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link ml-5" href="opiniao.php">Opinião</a>
+      </li>
     </ul>
 
 </nav>
