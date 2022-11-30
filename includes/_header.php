@@ -18,9 +18,12 @@
   <header class="row">
   <nav class="navbar navbar-expand-lg">
   <a class="navbar-brand" href="index.php">
-    <img src="./assets/img/Group-13.svg" />
-  </a>
-    <h1 class=" mt-2 mr-5"><b>Caramelo<br>News</b></h1>
+    <img src="./assets/img/Group-13.svg" /></a>
+    
+    <a class="navbar-brand" href="index.php">
+      <h1 class=" mt-2 mr-5"><b>Caramelo<br>News</b></h1>
+      </a>
+    
     <ul class="navbar-nav mt-5 ml-lg-5 ml-sm-0">
       <li class="nav-item ml-5">
         <a class="nav-link" href="index.php">Home</a>
