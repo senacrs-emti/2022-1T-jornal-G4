@@ -55,7 +55,7 @@ include_once './includes/_header.php'
         <img src="https://img.elo7.com.br/product/zoom/3B06B23/imagem-digital-jesus-e-leao-foto-para-quadro.jpg" class="col-lg-6 col-12 mt-3" alt="">
         <div class="col-lg-6 col-12 mt-3">
         <a href="">
-            <h3>Lorem</h3>
+            <h3></h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque rem quibusdam consectetur ducimus reprehenderit! Eaque praesentium provident error voluptatibus in pariatur. Rerum, tempora fuga unde alias odio harum libero iste.</p>
             </a>
         </div>

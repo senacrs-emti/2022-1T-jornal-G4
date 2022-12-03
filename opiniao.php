@@ -30,7 +30,8 @@ include_once './includes/_header.php'
 <div class="cronica-div">
 <a href="artigo-erotização.php">
 <h1 class="titulo-noticia col-lg-8 col-sm-12  mt-5">Erotização precoce<h1>
-<h4 class="autor-noticia col-lg-12 col-sm-12">Por Leonardo Mentz</h4>
+<h4 class="autor-noticia col-lg-12 col-sm-12">Por Pedro Leonardo Schwanck Leffa
+</h4>
 </a>
 </div>
 
